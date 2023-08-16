@@ -105,7 +105,11 @@ ul {
 }
 
 .team {
-    background: #FFFFFF;
+    background: #F4F4FD;
+}
+
+.team-item {
+    background-color: #FFFFFF;
 }
 
 .team-title {
