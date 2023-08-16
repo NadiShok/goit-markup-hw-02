@@ -1,5 +1,5 @@
 body {
-    font-family: 'roboto', 'raleway' sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background: #FFF;
     line-height: 1.5;
@@ -18,9 +18,9 @@ ul {
 
 .nav-logo {
     text-decoration: none;
-    color: #2E2F42;
+    color: #4d5ae5;
     text-transform: uppercase;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -28,7 +28,7 @@ ul {
 }
 
 .nav-logo .accent {
-    color: #4D5AE5;
+    color: #2e2f42;
 }
 
 .nav-link {
@@ -44,13 +44,16 @@ ul {
     color: #404BBF;
 }
 
+.address {
+    font-style: normal;
+}
+
 .address-link {
     text-decoration: none;
     font-family: Roboto;
     color: #434455;
     font-size: 16px;
     font-weight: 400;
-    font-style: normal;
 }
 
 .address-link:hover,
@@ -59,8 +62,6 @@ ul {
 }
 
 .section-hero {
-    height: 600px;
-    flex-shrink: 0;
     background: #2E2F42;
 }
 
@@ -74,7 +75,7 @@ ul {
 }
 .section-hero-btn {
     color: #FFF;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -104,7 +105,7 @@ ul {
 }
 
 .team {
-    background: #F4F4FD;
+    background: #FFFFFF;
 }
 
 .team-title {
@@ -153,7 +154,7 @@ ul {
     background: #2E2F42;
 }
 
-.nav-logo .accent-white {
+.nav-logo .accent-footer {
     color: #F4F4FD;
 }
 
